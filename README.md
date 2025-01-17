@@ -1,0 +1,1 @@
+This project is a file management system implemented using Spring Boot, PostgreSQL, Docker. The system allows users to manage files and folders within a tree structure and implements a permission-based access control mechanism.
